@@ -12,7 +12,7 @@
         <FirstName>Jane</FirstName>
         <LastName>Smith</LastName>
         <Username>jsmith</Username>
-        <Position>HR Specialist</Position>
+        <Position>University President</Position>
     </Staff>
     <Staff>
         <EmployeeID>EMP003</EmployeeID>
