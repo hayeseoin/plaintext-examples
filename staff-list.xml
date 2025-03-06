@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaffProfiles>
+    <Staff>
+        <EmployeeID>EMP001</EmployeeID>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <Username>jdoe</Username>
+        <Position>Manager</Position>
+    </Staff>
+    <Staff>
+        <EmployeeID>EMP002</EmployeeID>
+        <FirstName>Jane</FirstName>
+        <LastName>Smith</LastName>
+        <Username>jsmith</Username>
+        <Position>HR Specialist</Position>
+    </Staff>
+    <Staff>
+        <EmployeeID>EMP003</EmployeeID>
+        <FirstName>Michael</FirstName>
+        <LastName>Brown</LastName>
+        <Username>mbrown</Username>
+        <Position>Software Engineer</Position>
+    </Staff>
+    <Staff>
+        <EmployeeID>EMP004</EmployeeID>
+        <FirstName>Alice</FirstName>
+        <LastName>Johnson</LastName>
+        <Username>ajohnson</Username>
+        <Position>Accountant</Position>
+    </Staff>
+    <Staff>
+        <EmployeeID>EMP005</EmployeeID>
+        <FirstName>Robert</FirstName>
+        <LastName>Wilson</LastName>
+        <Username>rwilson</Username>
+        <Position>IT Support</Position>
+    </Staff>
+</StaffProfiles>
