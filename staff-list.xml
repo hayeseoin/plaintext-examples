@@ -8,13 +8,6 @@
         <Position>Manager</Position>
     </Staff>
     <Staff>
-        <EmployeeID>EMP002</EmployeeID>
-        <FirstName>Jane</FirstName>
-        <LastName>Smith</LastName>
-        <Username>jsmith</Username>
-        <Position>University President</Position>
-    </Staff>
-    <Staff>
         <EmployeeID>EMP003</EmployeeID>
         <FirstName>Michael</FirstName>
         <LastName>Brown</LastName>
