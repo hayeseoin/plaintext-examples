@@ -6,8 +6,7 @@
         <LastName>Doe</LastName>
         <Username>jdoe</Username>
         <Position>Manager</Position>
-    </Staff>
-    <Staff>
+    </Staff><Staff>
         <EmployeeID>EMP003</EmployeeID>
         <FirstName>Michael</FirstName>
         <LastName>Brown</LastName>
