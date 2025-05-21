@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "These are some parameters $@" 
+echo "These are some parameters $arg1" 
